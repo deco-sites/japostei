@@ -1,5 +1,6 @@
 import { ImageWidget } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
+import { CTA } from "site/sections/Welcome.tsx";
 
 interface Props {
     /**
@@ -7,9 +8,10 @@ interface Props {
     */
     image: ImageWidget;
     iconImage: ImageWidget;
+    cta?: CTA[];
 }
 
-export default function ThirdSection({ image, iconImage }: Props) {
+export default function ThirdSection({ image, iconImage, cta }: Props) {
     return (
         <div class="bg-[#553410] text-white flex flex-col items-center justify-center text-center">
             <section>
@@ -56,22 +58,28 @@ export default function ThirdSection({ image, iconImage }: Props) {
                         </div>
                     </div>
                 </div>
-
-
-
-                <div>
-
-                </div>
-                <div>
-
-                </div>
-                <div>
-
-                </div>
                 <div>
 
                 </div>
             </section>
+            <div class="text-2xl">
+                <br />
+                Use pelo seu Celular, Computador ou Tablet, diretamente do aplicativo gratuito do Canva.
+            </div>
+            <div class="flex items-center gap-3 my-8">
+                {cta?.map((item) => (
+                    <a
+                        key={item?.id}
+                        id={item?.id}
+                        href={item?.href}
+                        target={item?.href.includes("http") ? "_blank" : "_self"}
+                        class={`font-bold text-accent btn btn-lg btn-secondary rounded-xl ${item.outline && "btn-outline"
+                            }`}
+                    >
+                        {item?.text}
+                    </a>
+                ))}
+            </div>
         </div>
     );
 }

@@ -1,13 +1,13 @@
 import { ImageWidget } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
 
-interface Props {
-  /**
-  * @description The description of name.
-  */
-  welcomeImage: ImageWidget;
-  cta?: CTA[];
-}
+  interface Props {
+    /**
+    * @description The description of name.
+    */
+    welcomeImage: ImageWidget;
+    cta?: CTA[];
+  }
 
 export interface CTA {
   id?: string;

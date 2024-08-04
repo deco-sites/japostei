@@ -14,6 +14,12 @@
     },
     {
       "__resolveType": "site/sections/SecondSection.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ThirdSection.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/952d5fdb-08f4-4b25-9f30-dc8072d84749",
+      "iconimage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/26d7179d-5e1b-4f6c-b41d-09445bee2b3e",
+      "iconImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/f39fcacf-bce0-4f81-8e89-62fae775add2"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

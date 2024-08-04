@@ -44,7 +44,7 @@ export default function Welcome({ welcomeImage, cta }: Props) {
                   id={item?.id}
                   href={item?.href}
                   target={item?.href.includes("http") ? "_blank" : "_self"}
-                  class={`font-bold text-accent btn btn-secondary rounded-xl ${
+                  class={`font-bold text-accent btn btn-lg btn-secondary rounded-xl ${
                     item.outline && "btn-outline"
                   }`}
                 >

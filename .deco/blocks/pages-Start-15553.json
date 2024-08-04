@@ -11,6 +11,9 @@
           "text": "Eu Quero!"
         }
       ]
+    },
+    {
+      "__resolveType": "site/sections/SecondSection.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

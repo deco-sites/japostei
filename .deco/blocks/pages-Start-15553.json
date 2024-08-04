@@ -3,12 +3,14 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "site/sections/ItWorks.tsx",
-      "name": "<p>It Works!</p>",
-      "count": 1
-    },
-    {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Welcome.tsx",
+      "welcomeImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/baca6947-8af6-4c7c-aba5-3121e86f6a60",
+      "cta": [
+        {
+          "href": "/",
+          "text": "Eu Quero!"
+        }
+      ]
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

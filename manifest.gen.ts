@@ -4,23 +4,33 @@
 
 import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
-import * as $$$$$$0 from "./sections/Footer.tsx";
-import * as $$$$$$1 from "./sections/FourtySection.tsx";
-import * as $$$$$$2 from "./sections/ItWorks.tsx";
-import * as $$$$$$3 from "./sections/SecondSection.tsx";
-import * as $$$$$$4 from "./sections/Theme/Theme.tsx";
-import * as $$$$$$5 from "./sections/ThirdSection.tsx";
-import * as $$$$$$6 from "./sections/Welcome.tsx";
+import * as $$$$$$0 from "./sections/EightSection.tsx";
+import * as $$$$$$1 from "./sections/FiveSection.tsx";
+import * as $$$$$$2 from "./sections/Footer.tsx";
+import * as $$$$$$3 from "./sections/FourtySection.tsx";
+import * as $$$$$$4 from "./sections/ItWorks.tsx";
+import * as $$$$$$5 from "./sections/NineSection.tsx";
+import * as $$$$$$6 from "./sections/SecondSection.tsx";
+import * as $$$$$$7 from "./sections/SevenSection.tsx";
+import * as $$$$$$8 from "./sections/SixSection.tsx";
+import * as $$$$$$9 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$10 from "./sections/ThirdSection.tsx";
+import * as $$$$$$11 from "./sections/Welcome.tsx";
 
 const manifest = {
   "sections": {
-    "site/sections/Footer.tsx": $$$$$$0,
-    "site/sections/FourtySection.tsx": $$$$$$1,
-    "site/sections/ItWorks.tsx": $$$$$$2,
-    "site/sections/SecondSection.tsx": $$$$$$3,
-    "site/sections/Theme/Theme.tsx": $$$$$$4,
-    "site/sections/ThirdSection.tsx": $$$$$$5,
-    "site/sections/Welcome.tsx": $$$$$$6,
+    "site/sections/EightSection.tsx": $$$$$$0,
+    "site/sections/FiveSection.tsx": $$$$$$1,
+    "site/sections/Footer.tsx": $$$$$$2,
+    "site/sections/FourtySection.tsx": $$$$$$3,
+    "site/sections/ItWorks.tsx": $$$$$$4,
+    "site/sections/NineSection.tsx": $$$$$$5,
+    "site/sections/SecondSection.tsx": $$$$$$6,
+    "site/sections/SevenSection.tsx": $$$$$$7,
+    "site/sections/SixSection.tsx": $$$$$$8,
+    "site/sections/Theme/Theme.tsx": $$$$$$9,
+    "site/sections/ThirdSection.tsx": $$$$$$10,
+    "site/sections/Welcome.tsx": $$$$$$11,
   },
   "apps": {
     "site/apps/deco/htmx.ts": $$$$$$$$$$$0,

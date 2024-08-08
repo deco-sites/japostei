@@ -29,6 +29,27 @@
     },
     {
       "__resolveType": "site/sections/FourtySection.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee",
+      "image2": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
+    },
+    {
+      "__resolveType": "site/sections/FiveSection.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
+    },
+    {
+      "__resolveType": "site/sections/SixSection.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
+    },
+    {
+      "__resolveType": "site/sections/SevenSection.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
+    },
+    {
+      "__resolveType": "site/sections/EightSection.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
+    },
+    {
+      "__resolveType": "site/sections/NineSection.tsx",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
     }
   ],

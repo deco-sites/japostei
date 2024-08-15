@@ -1,6 +1,6 @@
 export default function SecondSection() {
     return (
-        <div class="text-[#553410] flex flex-col gap-4 items-center justify-center text-center px-32">
+        <div class="text-[#553410] flex flex-col gap-4 items-center justify-center text-center lg:px-32">
             <br />
             <section>
                 <h1 class="text-3xl font-black">

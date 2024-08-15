@@ -14,7 +14,7 @@ interface Props {
 export default function ThirdSection({ image, iconImage, cta }: Props) {
     return (
         <div class="bg-[#553410] text-white flex flex-col items-center justify-center text-center">
-            <section>
+            <section class="m-4">
                 <div>
                     <br />
                     <div class="text-bold text-3xl">

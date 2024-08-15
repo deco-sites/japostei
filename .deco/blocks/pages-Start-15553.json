@@ -51,6 +51,19 @@
     {
       "__resolveType": "site/sections/NineSection.tsx",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/9afcfbda-577f-43f2-a5d7-4207fe8bbeee"
+    },
+    {
+      "__resolveType": "site/sections/TeenSection.tsx",
+      "cta": [
+        {
+          "href": "/",
+          "text": "COMPRAR!",
+          "outline": false
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

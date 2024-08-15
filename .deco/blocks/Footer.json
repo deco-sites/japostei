@@ -1,1 +1,25 @@
-{"__resolveType":"site/sections/Footer.tsx"}
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [],
+  "bottomLinks": [],
+  "social": [
+    {
+      "network": "Instagram",
+      "href": "https://www.instagram.com/gabiportom1/"
+    },
+    {
+      "network": "Facebook",
+      "href": "https://www.instagram.com/gabiportom1/"
+    }
+  ],
+  "subscribe": {
+    "title": "a",
+    "description": "a",
+    "instructions": "<p>a</p>"
+  },
+  "copyright": "Todos os direitos reservados | Gabi do Marketing 2024.",
+  "madeWith": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/fd47869a-c688-4c35-9ca7-7fff31e26fbc",
+    "label": "Feito com tecnologia"
+  }
+}

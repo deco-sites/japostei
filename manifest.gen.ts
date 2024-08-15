@@ -13,9 +13,10 @@ import * as $$$$$$5 from "./sections/NineSection.tsx";
 import * as $$$$$$6 from "./sections/SecondSection.tsx";
 import * as $$$$$$7 from "./sections/SevenSection.tsx";
 import * as $$$$$$8 from "./sections/SixSection.tsx";
-import * as $$$$$$9 from "./sections/Theme/Theme.tsx";
-import * as $$$$$$10 from "./sections/ThirdSection.tsx";
-import * as $$$$$$11 from "./sections/Welcome.tsx";
+import * as $$$$$$9 from "./sections/TeenSection.tsx";
+import * as $$$$$$10 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$11 from "./sections/ThirdSection.tsx";
+import * as $$$$$$12 from "./sections/Welcome.tsx";
 
 const manifest = {
   "sections": {
@@ -28,9 +29,10 @@ const manifest = {
     "site/sections/SecondSection.tsx": $$$$$$6,
     "site/sections/SevenSection.tsx": $$$$$$7,
     "site/sections/SixSection.tsx": $$$$$$8,
-    "site/sections/Theme/Theme.tsx": $$$$$$9,
-    "site/sections/ThirdSection.tsx": $$$$$$10,
-    "site/sections/Welcome.tsx": $$$$$$11,
+    "site/sections/TeenSection.tsx": $$$$$$9,
+    "site/sections/Theme/Theme.tsx": $$$$$$10,
+    "site/sections/ThirdSection.tsx": $$$$$$11,
+    "site/sections/Welcome.tsx": $$$$$$12,
   },
   "apps": {
     "site/apps/deco/htmx.ts": $$$$$$$$$$$0,

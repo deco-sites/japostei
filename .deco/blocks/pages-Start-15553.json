@@ -63,6 +63,9 @@
       ]
     },
     {
+      "__resolveType": "site/sections/LastSection.tsx"
+    },
+    {
       "__resolveType": "Footer"
     }
   ],

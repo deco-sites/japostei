@@ -6,7 +6,7 @@ interface Props {
 
 export default function TeenSection({ cta }: Props) {
     return (
-        <div>
+        <div class="bg-[url('/lp-1.png')] bg-cover bg-center h-screen w-screen">
             <br />
             <section class="gap-4 items-center justify-center px-8 lg:px-32">
                 <div class="bg-[#7d6c57] text-white font-black p-8 lg:mx-72 rounded-3xl flex flex-col justify-center items-center">

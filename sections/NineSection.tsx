@@ -18,12 +18,7 @@ export default function FiveSection({ image }: Props) {
                 <h1 class="text-[#553410]  text-3xl">Adquirindo o Canva Imobiliária HOJE você ainda ganha
                     o <strong>MEGA KIT INSTAGRAM TRANSFORMADO!</strong></h1>
                 <div class="">
-                    <Image
-                        src={image || ""}
-                        alt={""}
-                        height={450}
-                        width={650}
-                    />
+                <img class="rounded-t-lg" src="lp-7.png" alt="" />
                 </div>
                 <div class="list-image-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNCAxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMzhiZGY4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy42ODUuMTUzYS43NTIuNzUyIDAgMCAxIC4xNDMgMS4wNTJsLTggMTAuNWEuNzUuNzUgMCAwIDEtMS4xMjcuMDc1bC00LjUtNC41YS43NS43NSAwIDAgMSAxLjA2LTEuMDZsMy44OTQgMy44OTMgNy40OC05LjgxN2EuNzUuNzUgMCAwIDEgMS4wNS0uMTQzWiIgLz48L3N2Zz4=')] text-start bg-[#553410] rounded-3xl p-16">
                     <li class="text-white text-xl">

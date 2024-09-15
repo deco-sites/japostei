@@ -19,9 +19,10 @@ export interface CTA {
 
 export default function Welcome({ welcomeImage, cta }: Props) {
   return <div>
-    <section>
+    <section class="">
       <br />
-      <div class="flex flex-col gap-4 items-center justify-center text-center">
+      <div class="bg-[url('/lp-1.png')] bg-cover bg-center flex flex-col gap-4 items-center justify-center text-center">
+        <br />
         <div class="bg-[#553410] w-96 text-white font-black text-3xl p-8 rounded-3xl">
           Transforme seu Perfil Ainda Hoje e Veja Seus Resultados Decolarem na Internet!
         </div>

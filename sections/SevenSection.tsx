@@ -17,12 +17,7 @@ export default function FiveSection({ image }: Props) {
                 <div class="text-2xl">Um perfil profissional sem dúvidas colocará <strong>MUITO DINHEIRO NO SEU BOLSO 
                 e você vai ter tudo que precisa para impactar novos clientes em um só lugar!</strong></div>
                 <div class="">
-                    <Image
-                        src={image || ""}
-                        alt={""}
-                        height={450}
-                        width={650}
-                    />
+                <img class="rounded-t-lg" src="lp-6.png" alt="" />
                 </div>
             </section>
         </div>

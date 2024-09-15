@@ -9,14 +9,15 @@ import * as $$$$$$1 from "./sections/FiveSection.tsx";
 import * as $$$$$$2 from "./sections/Footer.tsx";
 import * as $$$$$$3 from "./sections/FourtySection.tsx";
 import * as $$$$$$4 from "./sections/ItWorks.tsx";
-import * as $$$$$$5 from "./sections/NineSection.tsx";
-import * as $$$$$$6 from "./sections/SecondSection.tsx";
-import * as $$$$$$7 from "./sections/SevenSection.tsx";
-import * as $$$$$$8 from "./sections/SixSection.tsx";
-import * as $$$$$$9 from "./sections/TeenSection.tsx";
-import * as $$$$$$10 from "./sections/Theme/Theme.tsx";
-import * as $$$$$$11 from "./sections/ThirdSection.tsx";
-import * as $$$$$$12 from "./sections/Welcome.tsx";
+import * as $$$$$$5 from "./sections/LastSection.tsx";
+import * as $$$$$$6 from "./sections/NineSection.tsx";
+import * as $$$$$$7 from "./sections/SecondSection.tsx";
+import * as $$$$$$8 from "./sections/SevenSection.tsx";
+import * as $$$$$$9 from "./sections/SixSection.tsx";
+import * as $$$$$$10 from "./sections/TeenSection.tsx";
+import * as $$$$$$11 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$12 from "./sections/ThirdSection.tsx";
+import * as $$$$$$13 from "./sections/Welcome.tsx";
 
 const manifest = {
   "sections": {
@@ -25,14 +26,15 @@ const manifest = {
     "site/sections/Footer.tsx": $$$$$$2,
     "site/sections/FourtySection.tsx": $$$$$$3,
     "site/sections/ItWorks.tsx": $$$$$$4,
-    "site/sections/NineSection.tsx": $$$$$$5,
-    "site/sections/SecondSection.tsx": $$$$$$6,
-    "site/sections/SevenSection.tsx": $$$$$$7,
-    "site/sections/SixSection.tsx": $$$$$$8,
-    "site/sections/TeenSection.tsx": $$$$$$9,
-    "site/sections/Theme/Theme.tsx": $$$$$$10,
-    "site/sections/ThirdSection.tsx": $$$$$$11,
-    "site/sections/Welcome.tsx": $$$$$$12,
+    "site/sections/LastSection.tsx": $$$$$$5,
+    "site/sections/NineSection.tsx": $$$$$$6,
+    "site/sections/SecondSection.tsx": $$$$$$7,
+    "site/sections/SevenSection.tsx": $$$$$$8,
+    "site/sections/SixSection.tsx": $$$$$$9,
+    "site/sections/TeenSection.tsx": $$$$$$10,
+    "site/sections/Theme/Theme.tsx": $$$$$$11,
+    "site/sections/ThirdSection.tsx": $$$$$$12,
+    "site/sections/Welcome.tsx": $$$$$$13,
   },
   "apps": {
     "site/apps/deco/htmx.ts": $$$$$$$$$$$0,

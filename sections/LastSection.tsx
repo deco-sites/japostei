@@ -12,6 +12,9 @@ interface Props {
 export default function LastSection({ image, cta }: Props) {
     return (
         <section>
+            <br />
+            <br />
+            <br />
             <div class="text-[#553410] gap-4 items-center justify-center text-center px-16 lg:px-32 mt-8">
                 <strong class="text-3xl font-black">
                     Tem alguma dúvida?

@@ -23,8 +23,8 @@ export default function LastSection({ image, cta }: Props) {
                     Abaixo listei as principais perguntas que recebo dos novos clientes.
                 </div>
             </div>
-            <div class="mx-9 justify-center grid grid-cols-2 lg:grid-cols-1 grid-rows-3 lg:gap-4">
-                <div class="mx-8 my-4">
+            <div class="text-lg mx-9 justify-center grid grid-cols-2 lg:grid-cols-1 grid-rows-3 lg:gap-4">
+                <div class="lg:mx-8 my-4">
                     <strong>
                         Preciso da versão paga do Canva para usar?
                     </strong>
@@ -32,7 +32,7 @@ export default function LastSection({ image, cta }: Props) {
                         Não. Você pode usar, editar e salvar suas postagens pela versão gratuita.
                     </div>
                 </div>
-                <div class="mx-8 my-4">
+                <div class="lg:mx-8 my-4">
                     <strong>
                         Posso usar pelo celular?
                     </strong>
@@ -40,7 +40,7 @@ export default function LastSection({ image, cta }: Props) {
                         Sim! Você pode utilizar tanto pelo celular quanto pelo computador ou tablet.
                     </div>
                 </div>
-                <div class="mx-8 my-4">
+                <div class="lg:mx-8 my-4">
                     <strong>
                         Por quanto tempo terei acesso?
                     </strong>
@@ -48,7 +48,7 @@ export default function LastSection({ image, cta }: Props) {
                         Você terá acesso vitalício ao Pack.
                     </div>
                 </div>
-                <div class="mx-8 my-4">
+                <div class="lg:mx-8 my-4">
                     <strong>
                         Como vou receber o acesso?
                     </strong>
@@ -56,7 +56,7 @@ export default function LastSection({ image, cta }: Props) {
                         Você vai receber um e-mail com acesso a nossa área de membros, onde todos os templates estarão disponíveis via link.
                     </div>
                 </div>
-                <div class="mx-8 my-4">
+                <div class="lg:mx-8 my-4">
                     <strong>
                         Tem suporte para dúvidas?
                     </strong>
@@ -64,7 +64,7 @@ export default function LastSection({ image, cta }: Props) {
                         Claro! Se você tiver qualquer dúvida, poderá entrar em contato com o nosso suporte direto por e-mail ou WhatsApp.
                     </div>
                 </div>
-                <div class="mx-8 my-4">
+                <div class="lg:mx-8 my-4">
                     <strong>
                         Recebo todos os modelos?
                     </strong>
@@ -73,12 +73,12 @@ export default function LastSection({ image, cta }: Props) {
                     </div>
                 </div>
             </div>
-            <div class="mx-16 flex flex-col lg:flex-row">
-                <div>
+            <div class="flex flex-col lg:flex-row">
+                <div class="mx-16">
                     <div class="text-5xl">
                         Quem é a <br /><strong>Gabi do Marketing?</strong>
                     </div>
-                    <div>
+                    <div class="text-2xl">
                         <div class="my-8">
                             Gabriela Borges Rodrigues é graduada em marketing e proprietária de duas empresas: Já Postei e Exdi.
                         </div>
@@ -90,9 +90,7 @@ export default function LastSection({ image, cta }: Props) {
                         </div>
                     </div>
                 </div>
-                <div class="m-8">
-                </div>
-                <img class="rounded-t-lg" src="gabi.png" alt="" />
+                <img class="rounded w-[1000px] h-[500px]" src="gabi.png" alt="" />
             </div>
             <div class="mx-16 bg-[#553410] text-white font-black p-8 text-3xl text-center rounded-3xl">
                 <div class="">

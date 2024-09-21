@@ -63,10 +63,14 @@
       ]
     },
     {
-      "__resolveType": "site/sections/LastSection.tsx"
-    },
-    {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/LastSection.tsx",
+      "cta": [
+        {
+          "href": "/",
+          "text": "Compre por apenas R$47,90",
+          "outline": false
+        }
+      ]
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

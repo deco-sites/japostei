@@ -6,11 +6,10 @@ interface Props {
 
 export default function TeenSection({ cta }: Props) {
     return (
-        <div class="bg-[url('/lp-1.png')] bg-cover bg-center h-screen w-screen">
-            <br />
-            <section class="gap-4 items-center justify-center px-8 lg:px-32">
-                <div class="bg-[#7d6c57] text-white font-black p-8 lg:mx-72 rounded-3xl flex flex-col justify-center items-center">
-                    <strong class="text-2xl">
+        <div class="bg-[url('/lp-9.png')] bg-cover bg-center font-sans">
+            <section class="gap-4 flex items-center justify-center p-8">
+                <div class="bg-[#7d6c57] text-white p-8 w-[600px] rounded-3xl flex flex-col justify-center items-center">
+                    <strong class="text-2xl text-center">
                         Tenha tudo que você precisa em
                         um só lugar!
                     </strong>
@@ -68,7 +67,7 @@ export default function TeenSection({ cta }: Props) {
                             Suporte via WhatsApp
                         </li>
                     </div>
-                    <div class="flex items-center gap-3 my-8">
+                    <div class="flex items-center">
                         {cta?.map((item) => (
                             <a
                                 key={item?.id}

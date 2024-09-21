@@ -2,13 +2,13 @@ export default function SecondSection() {
     return (
         <div class="text-[#553410] flex flex-col gap-4 items-center justify-center text-center lg:px-32">
             <br />
-            <section>
-                <h1 class="text-3xl font-black">
+            <section class="m-4 font-sans">
+                <h1 class="text-4xl font-black">
                     Cansado(a) de perder horas criando conteúdo?
                 </h1>
                 <br />
                 <div class="text-2xl">
-                    Você já sabe que <strong>precisa estar nas redes sociais para atrair mais seguidores e clientes</strong> para o seu negócio.
+                    Você já sabe que <strong class="font-black">precisa estar nas redes sociais para atrair mais seguidores e clientes</strong> para o seu negócio.
                 </div>
                 <br />
                 <div class="text-2xl">

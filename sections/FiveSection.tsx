@@ -12,8 +12,8 @@ export default function FiveSection({ image }: Props) {
     return (
         <div>
             <br />
-            <section class="text-[#553410] flex flex-col gap-4 items-center justify-center text-center lg:px-32">
-                <h1 class="text-3xl">Confira algumas <strong>artes do pacote para destaques:</strong></h1>
+            <section class="text-[#553410] flex flex-col gap-4 items-center justify-center text-center lg:px-32 font-sans">
+                <h1 class="text-3xl">Confira algumas <strong class="font-black">artes do pacote para destaques:</strong></h1>
                 <div class="">
                 <img class="rounded-t-lg" src="lp-4.png" alt="" />
                 </div>

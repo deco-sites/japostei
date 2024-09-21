@@ -70,7 +70,8 @@
           "text": "Compre por apenas R$47,90",
           "outline": false
         }
-      ]
+      ],
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12081/fd47869a-c688-4c35-9ca7-7fff31e26fbc"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

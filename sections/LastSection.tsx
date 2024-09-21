@@ -1,15 +1,13 @@
-import { ImageWidget } from "apps/admin/widgets.ts";
 import { CTA } from "site/sections/Welcome.tsx";
 
 interface Props {
     /**
     * @description The description of name.
     */
-    image: ImageWidget;
     cta?: CTA[];
 }
 
-export default function LastSection({ image, cta }: Props) {
+export default function LastSection({ cta }: Props) {
     return (
         <section  style="overflow-x: hidden;">
             <div class="gap-4 items-center justify-center text-center px-16 lg:px-32 mt-8 font-sans">
